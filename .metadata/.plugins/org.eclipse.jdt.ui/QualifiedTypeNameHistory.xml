@@ -12,4 +12,18 @@
     <fullyQualifiedTypeName name="abstract_factory_muebles.FabricaMueblesModernos"/>
     <fullyQualifiedTypeName name="abstract_factory_muebles.FabricaMueblesVictorianos"/>
     <fullyQualifiedTypeName name="abstract_factory_muebles.FabricaMuebles"/>
+    <fullyQualifiedTypeName name="java.lang.ProcessHandle"/>
+    <fullyQualifiedTypeName name="abstract_factory_fp.AlumnoFP"/>
+    <fullyQualifiedTypeName name="abstract_factory_fp.FabricaCentroFp"/>
+    <fullyQualifiedTypeName name="abstract_factory_fp.ProfesorFP"/>
+    <fullyQualifiedTypeName name="abstract_factory_fp.ProfesorFpInformatica"/>
+    <fullyQualifiedTypeName name="abstract_factory_fp.AlumnoFpInformatica"/>
+    <fullyQualifiedTypeName name="builder8.Pizza"/>
+    <fullyQualifiedTypeName name="builder8.PizzaBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="prototype12pokemon.PokemonCapturados"/>
+    <fullyQualifiedTypeName name="prototype12pokemon.PokemonCapturado"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="singleton14perros.PerroSingleton"/>
 </qualifiedTypeNameHistroy>

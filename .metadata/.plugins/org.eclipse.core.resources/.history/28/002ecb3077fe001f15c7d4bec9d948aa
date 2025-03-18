@@ -1,5 +1,0 @@
-package abstract_factory_persona;
-
-abstract class Fabrica {
-	abstract public Fabrica fabrica();
-}

@@ -1,5 +1,0 @@
-package abstract_factory_persona;
-
-public class Profesor implements Persona{
-
-}

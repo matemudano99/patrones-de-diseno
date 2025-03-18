@@ -1,6 +1,0 @@
-package abstract_factory;
-
-public class Main {
-	Fabrica fabricaE= new FabricaElectrodomesticos();
-	Producto electrodomestico = fabricaElectrodomesticos.crearProducto()
-}
