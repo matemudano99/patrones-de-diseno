@@ -20,6 +20,10 @@ public class PerroSingleton {
 		contador++;
 	}
 	
+	/**
+	 * perroprimo
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		PerroSingleton perro1 = PerroSingleton.getInstance();
 		PerroSingleton perro2 = PerroSingleton.getInstance();
