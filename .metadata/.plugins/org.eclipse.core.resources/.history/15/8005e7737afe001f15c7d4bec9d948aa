@@ -1,0 +1,10 @@
+package abstract_factory_muebles;
+
+public class SillaModerna implements Silla {
+	@Override
+	public void describir() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

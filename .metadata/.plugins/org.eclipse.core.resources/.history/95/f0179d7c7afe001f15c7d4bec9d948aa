@@ -1,0 +1,11 @@
+package abstract_factory_muebles;
+
+public class SofaModerno implements Sofa {
+
+	@Override
+	public void describir() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

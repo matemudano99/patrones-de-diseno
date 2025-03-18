@@ -1,0 +1,11 @@
+package abstract_factory_persona;
+
+public class Profesor implements Persona{
+
+	@Override
+	public void accion() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

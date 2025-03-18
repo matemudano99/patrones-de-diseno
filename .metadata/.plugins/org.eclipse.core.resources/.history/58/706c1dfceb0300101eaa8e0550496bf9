@@ -1,0 +1,15 @@
+package builder_7;
+
+public class ProductoBuilder {
+	private String nombre;
+	private double precio;
+	public ProductoBuilder nombre(String nombre) {
+		this.nombre = nombre;
+		return this;
+	}
+	public ProductoBuilder precio(String nombre) {
+		this.nombre = nombre;
+		return this;
+	}
+	
+}

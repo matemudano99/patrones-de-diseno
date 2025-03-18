@@ -1,0 +1,22 @@
+package prototype12pokemon;
+
+public class PokemonCapturados implements Pokemon {
+	private int pokeId;
+	private String nombre;
+	private String region;
+	int nivel;
+	
+	
+	@Override
+	public Pokemon clonar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void especificaciones() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

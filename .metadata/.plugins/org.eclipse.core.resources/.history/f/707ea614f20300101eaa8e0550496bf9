@@ -1,0 +1,5 @@
+package prototype10_11;
+
+public interface Ordenador {
+
+}

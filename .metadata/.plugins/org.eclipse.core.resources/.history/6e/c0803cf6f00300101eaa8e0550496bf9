@@ -1,0 +1,10 @@
+package builder8;
+
+public class Main {
+	public static void main(String[] args) {
+		PizzaBuilder pizza = new PizzaBuilder()
+								 .ingrediente(null)
+				.ingrediente2()
+				.tamaño(null);
+	}
+}

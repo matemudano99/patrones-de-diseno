@@ -1,0 +1,6 @@
+package singleton14perros;
+
+public class Perro {
+	private String raza;
+	private int edad;
+}

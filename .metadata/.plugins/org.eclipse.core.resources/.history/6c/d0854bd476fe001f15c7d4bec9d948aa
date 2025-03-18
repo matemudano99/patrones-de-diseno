@@ -1,0 +1,5 @@
+package abstract_factory_persona;
+
+public interface Persona {
+	private void accion();
+}

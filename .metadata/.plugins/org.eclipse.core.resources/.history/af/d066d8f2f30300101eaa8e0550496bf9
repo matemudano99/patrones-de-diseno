@@ -1,0 +1,36 @@
+package prototype12pokemon;
+
+import java.util.HashMap;
+
+public class PokemonCapturados implements Pokemon {
+	private int pokeId;
+	private String nombre;
+	private String region;
+	int nivel;
+	HashMap<String, Integer> estadisticas;
+	
+	public PokemonCapturados(int pokeId, String nombre, String region, int nivel,
+			HashMap<String, Integer> estadisticas) {
+		this.pokeId = pokeId;
+		this.nombre = nombre;
+		this.region = region;
+		this.nivel = nivel;
+		this.estadisticas = new HashMap<>();
+		this.estadisticas.put("Vida", 0);
+        this.estadisticas.put("Ataque", 0);
+        this.estadisticas.put("Defensa", 0);
+	}
+
+	@Override
+	public Pokemon clonar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void especificaciones() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

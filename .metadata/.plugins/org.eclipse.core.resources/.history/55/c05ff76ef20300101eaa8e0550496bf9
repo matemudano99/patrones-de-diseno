@@ -1,0 +1,7 @@
+package prototype10_11;
+
+public class OrdenadorSobremesa implements Ordenador{
+	private String procesador;
+	private int ram;
+	int almacenamiento;
+}

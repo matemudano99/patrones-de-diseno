@@ -1,0 +1,10 @@
+package abstract_factory;
+
+public class FabricaElectrodomesticos extends Fabrica {
+
+	@Override
+	public Producto crearProducto() {
+		return new Electrodomestico();
+	}
+
+}

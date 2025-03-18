@@ -1,0 +1,22 @@
+package builder8;
+
+import builder_7.ProductoBuilder;
+
+public class PizzaBuilder {
+	private String ingrediente;
+	private String ingrediente2;
+	private String tamaño;
+	public PizzaBuilder ingrediente(String ingrediente) {
+		this.ingrediente = ingrediente;
+		return this;
+	}
+	public PizzaBuilder ingrediente2(String ingrediente2) {
+		this.ingrediente2 = ingrediente2;
+		return this;
+	}
+	public PizzaBuilder tamaño(String tamaño) {
+		this.tamaño = tamaño;
+		return this;
+	}
+	
+}

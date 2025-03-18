@@ -1,0 +1,17 @@
+package abstract_factory_muebles;
+
+public class FabricaMueblesModernos implements FabricaMuebles {
+
+	@Override
+	public Silla crearSilla() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Sofa crearSofa() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,11 @@
+package abstract_factory;
+
+public class FabricaElectrodomesticos extends Fabrica {
+
+	@Override
+	public Producto crearProducto() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

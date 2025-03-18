@@ -1,0 +1,11 @@
+package prototype12pokemon;
+
+public class Main {
+	public static void main(String[] args) {
+		PokemonCapturado poke1Prototipo = new PokemonCapturado(1, "bulbasaur", "Kanto", 5);
+
+		PokemonCapturado poke2 = poke1Prototipo.clonar();
+		
+		poke2.especificaciones();
+	}
+}

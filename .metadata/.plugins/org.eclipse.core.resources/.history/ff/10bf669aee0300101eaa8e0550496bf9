@@ -1,0 +1,21 @@
+package builder_7;
+
+public class Main {
+	public static void main(String[] args) {
+		String nombre = "Camiseta";
+		 // Usando el Builder para construir un Producto
+        Producto producto = new ProductoBuilder()
+                                .nombre(nombre)
+                                .precio(20.0)
+                                .color("Negro")
+                                .talla("L")
+                                .fabricante("Adidas")
+                                .modelo("Basics")
+                                .build();
+
+
+        // Imprimir detalles del producto
+        System.out.println(producto);
+        nombre = "Pantalon";
+	}
+}

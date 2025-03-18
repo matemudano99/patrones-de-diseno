@@ -1,0 +1,10 @@
+package abstract_factory_muebles;
+
+public class Main {
+	public static void main(String[] args) {
+		FabricaMuebles fabrica = new FabricaMuebles();
+
+		FabricaMuebles fabricaModerna = new FabricaMueblesModernos();
+		
+	}
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="abstract_factory.FabricaElectrodomesticos"/>
+    <fullyQualifiedTypeName name="abstract_factory.Electrodomestico"/>
+    <fullyQualifiedTypeName name="abstract_factory.Producto"/>
+    <fullyQualifiedTypeName name="abstract_factory_persona.Persona"/>
+    <fullyQualifiedTypeName name="abstract_factory_persona.Fabrica"/>
+    <fullyQualifiedTypeName name="abstract_factory_muebles.SillaModerna"/>
+    <fullyQualifiedTypeName name="abstract_factory_muebles.Sofa"/>
+    <fullyQualifiedTypeName name="abstract_factory_muebles.SofaModerno"/>
+    <fullyQualifiedTypeName name="abstract_factory_muebles.Silla"/>
+    <fullyQualifiedTypeName name="abstract_factory_muebles.FabricaMueblesModernos"/>
+    <fullyQualifiedTypeName name="abstract_factory_muebles.FabricaMueblesVictorianos"/>
+    <fullyQualifiedTypeName name="abstract_factory_muebles.FabricaMuebles"/>
+</qualifiedTypeNameHistroy>

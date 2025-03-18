@@ -1,0 +1,6 @@
+package abstract_factory_muebles;
+
+public interface FabricaMuebles {
+	Silla crearSilla();
+	Sofa crearSofa();
+}
