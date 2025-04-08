@@ -1,5 +1,0 @@
-package prototype9;
-
-public class Persona implements Cloneable {
-
-}

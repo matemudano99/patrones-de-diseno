@@ -1,7 +1,0 @@
-package builder8;
-
-public class PizzaBuilder {
-	private String ingrediente;
-	private String ingrediente2;
-	private String tamaño;
-}

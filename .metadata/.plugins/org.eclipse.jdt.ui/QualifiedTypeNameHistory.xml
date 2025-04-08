@@ -26,4 +26,15 @@
     <fullyQualifiedTypeName name="prototype12pokemon.PokemonCapturado"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="singleton14perros.PerroSingleton"/>
+    <fullyQualifiedTypeName name="ejercicio3.Ejemplo1Refactorizado"/>
+    <fullyQualifiedTypeName name="ejercicio3.Nombre"/>
+    <fullyQualifiedTypeName name="ejercicio3.Curso"/>
+    <fullyQualifiedTypeName name="ejercicio3.Salario"/>
+    <fullyQualifiedTypeName name="ejercicio4.PrecioConIVA"/>
+    <fullyQualifiedTypeName name="ejercicio4.PrecioSinIVA"/>
+    <fullyQualifiedTypeName name="mvc_productos.Modelo"/>
+    <fullyQualifiedTypeName name="mvc_productos.Controlador"/>
+    <fullyQualifiedTypeName name="mvc_videojuegos.ControladorVideojuegos"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

@@ -1,8 +1,0 @@
-package prototype12pokemon;
-
-public class Main {
-	public static void main(String[] args) {
-		PokemonCapturado poke1 = new PokemonCapturado(1, "bulbasaur", "Kanto", 5);
-		System.out.println(poke1);
-	}
-}
