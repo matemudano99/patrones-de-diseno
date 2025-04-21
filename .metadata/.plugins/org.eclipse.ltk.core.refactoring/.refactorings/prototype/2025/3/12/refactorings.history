@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;prototype12pokemon.PokemonCapturados.java&apos; to &apos;PokemonCapturado.java&apos;&#x0D;&#x0A;- Original project: &apos;prototype&apos;&#x0D;&#x0A;- Original element: &apos;prototype12pokemon.PokemonCapturados.java&apos;&#x0D;&#x0A;- Renamed element: &apos;prototype12pokemon.PokemonCapturado.java&apos;" description="Rename compilation unit &apos;PokemonCapturados.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;prototype12pokemon{PokemonCapturados.java" name="PokemonCapturado.java" references="false" stamp="1742300753564" version="1.0"/>
-</session>
